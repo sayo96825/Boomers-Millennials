@@ -2,5 +2,5 @@
 
 Tutorial of EDA (Exploratory Data Analysis) with data visualization using Altair
 
-Python: Alair< br>
+Python: Alair<br>
 CSV file: NBA
