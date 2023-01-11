@@ -3,5 +3,5 @@
 Tutorial of EDA (Exploratory Data Analysis) <br>
 
 Python: Pandas <br>
-        &emsp; Altair<br><br>
+        &emsp; &emsp; Altair<br><br>
 CSV file: 🏀 NBA
