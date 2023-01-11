@@ -17,3 +17,7 @@ Do you think taller player is more successful in NBA and get higher salary?
 
 ![image](https://user-images.githubusercontent.com/62345938/211735896-469850f2-2c7c-4c4a-8d50-efb11c12997d.png)
 
+▪️ Using `.facet()`
+![image](https://user-images.githubusercontent.com/62345938/211739243-0da9d7c2-d61e-4178-a783-cc81426dbbcf.png)
+
+
