@@ -6,8 +6,8 @@ Python: Pandas <br>
         &emsp; &emsp; &emsp;Altair<br><br>
 CSV file: 🏀 NBA
 
-It will be interesting to see if salary is related to postion, age, height and weight.
-Do you think taller player get higher salary?
+It will be interesting to see if salary is related to postion, age, height and weight. <br>
+Do you think taller player is more successful in NBA and get higher salary?
 
 ![image](https://user-images.githubusercontent.com/62345938/211736210-9827d6cc-5909-49a5-93e1-754f186bc78d.png)
 
