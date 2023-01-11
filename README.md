@@ -3,8 +3,8 @@
 Tutorial of EDA (Exploratory Data Analysis) <br>
 
 Python: Pandas <br>
-        &emsp; &emsp; &emsp;Altair<br><br>
-CSV file: 🏀 NBA
+        &emsp; &emsp; &emsp;Altair
+&emsp; CSV file: 🏀 NBA
 
 It will be interesting to see if `Salary` is related to `Postion`, `Age`, `Height` and `Weight`. <br>
 Do you think taller player is more successful in NBA and get higher salary?
