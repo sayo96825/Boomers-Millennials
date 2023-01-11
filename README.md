@@ -3,7 +3,7 @@
 ### Tutorial of EDA (Exploratory Data Analysis) <br>
 
 ▪️Python: Pandas            &emsp; &emsp; &emsp;         &emsp; ▪️CSV file: 🏀 NBA <br>
-        &emsp; &emsp;Altair
+        &emsp; &emsp;&emsp;Altair
 
 
 It will be interesting to see if `Salary` is related to `Postion`, `Age`, `Height` and `Weight`. <br>
