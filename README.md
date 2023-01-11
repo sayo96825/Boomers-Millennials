@@ -2,7 +2,7 @@
 
 Tutorial of EDA (Exploratory Data Analysis) <br>
 
-Python: Pandas <br>
+Python: Pandas <br>           &emsp; &emsp; &emsp;         &emsp; CSV file: 🏀 NBA
         &emsp; &emsp; &emsp;Altair
 &emsp; CSV file: 🏀 NBA
 
