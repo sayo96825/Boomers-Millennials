@@ -11,7 +11,7 @@ Do you think taller player is more successful in NBA and get higher salary?
 
 ▪️ Dataframe
 
-![image](https://user-images.githubusercontent.com/62345938/211736631-9ec57846-7904-4b53-8d72-fe84df48442e.png, hight = 400)
+![image](https://user-images.githubusercontent.com/62345938/211736631-9ec57846-7904-4b53-8d72-fe84df48442e.png)
 
 ▪️ Using `.repeat()`
 
